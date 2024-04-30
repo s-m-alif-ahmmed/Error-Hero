@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+
+<url>
+  <loc>https://www.errorhero.com/</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/blogs/laravel</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/blogs/php</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+  <url>
+    <loc>https://www.errorhero.com/blogs/tag/laravel</loc>
+    <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.errorhero.com/details/the-importance-of-laravel-10-in-modern-web-development</loc>
+    <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.errorhero.com/details/laravel-10-to-11-smooth-upgrade-guide</loc>
+    <lastmod>2024-03-18T04:17:24+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.errorhero.com/about</loc>
+    <lastmod>2024-02-18T04:56:09+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+<url>
+  <loc>https://www.errorhero.com/contact</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/author?page=author</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/login</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/privacy</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/terms</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/author</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/forgot-password</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.errorhero.com/register</loc>
+  <lastmod>2024-02-18T04:17:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
